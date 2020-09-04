@@ -1,5 +1,6 @@
 import axios from 'axios';
 
+//the url 
 const url = 'https://covid19.mathdro.id/api';
 
 //cards api

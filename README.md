@@ -1,4 +1,4 @@
-## Covid-19 React JS Web Application
+# Covid-19 React JS Web Application
 
 A web app that shows the data of the covid-19 outbreak in the world.
 
